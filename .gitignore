@@ -1,0 +1,8 @@
+node_modules/
+.env
+credentials.json
+token.json
+flickr_zips/
+flickr_extracted/
+*.zip
+.DS_Store
