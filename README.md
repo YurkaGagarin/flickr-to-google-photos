@@ -6,7 +6,7 @@ Automated tool to migrate your Flickr library to Google Photos while preserving 
 
 ---
 
-## 🇺🇸 USAGE GUIDE
+## USAGE GUIDE
 
 This tool migrates your Flickr library to Google Photos while preserving albums, capture dates, tags, and geolocation.
 
