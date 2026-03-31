@@ -1,6 +1,6 @@
 # 📸 Flickr to Google Photos Migration Tool
 
-[🇨🇮 Читать на русском (Russian)](README_RUS.md)
+[Читать на русском (Russian)](README_RUS.md)
 
 Automated tool to migrate your Flickr library to Google Photos while preserving albums, metadata, and geolocation using a highly resilient "Upload-First" architecture.
 
